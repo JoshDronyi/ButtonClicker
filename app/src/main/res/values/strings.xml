@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">ButtonClicker</string>
+    <string name="viewText">Click the button to see the number of times you clicked displayed here: \n\n\n</string>
+    <string name="buttonText">Click Here!!</string>
+</resources>
